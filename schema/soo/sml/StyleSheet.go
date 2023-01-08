@@ -12,7 +12,7 @@ package sml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type StyleSheet struct {

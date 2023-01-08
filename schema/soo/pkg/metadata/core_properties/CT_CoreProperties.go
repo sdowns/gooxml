@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"time"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type CT_CoreProperties struct {

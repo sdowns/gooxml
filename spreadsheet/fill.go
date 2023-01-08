@@ -8,7 +8,7 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml/schema/soo/sml"
+	"github.com/sdowns/gooxml/schema/soo/sml"
 )
 
 type Fill struct {

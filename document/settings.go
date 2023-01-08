@@ -8,8 +8,8 @@
 package document
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/sdowns/gooxml"
+	"github.com/sdowns/gooxml/schema/soo/wml"
 )
 
 // Settings controls the document settings.

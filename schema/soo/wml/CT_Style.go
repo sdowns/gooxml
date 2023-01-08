@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/sdowns/gooxml"
+	"github.com/sdowns/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Style struct {

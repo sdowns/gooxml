@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"github.com/sdowns/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
 )
 
 func TestTextdataConstructor(t *testing.T) {

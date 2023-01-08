@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type Stroke struct {

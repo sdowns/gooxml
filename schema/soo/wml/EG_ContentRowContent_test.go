@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/sdowns/gooxml/schema/soo/wml"
 )
 
 func TestEG_ContentRowContentConstructor(t *testing.T) {

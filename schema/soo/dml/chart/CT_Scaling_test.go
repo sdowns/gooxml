@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml/chart"
+	"github.com/sdowns/gooxml/schema/soo/dml/chart"
 )
 
 func TestCT_ScalingConstructor(t *testing.T) {

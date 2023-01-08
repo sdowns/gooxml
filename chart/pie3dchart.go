@@ -7,8 +7,8 @@
 
 package chart
 
-import crt "baliance.com/gooxml/schema/soo/dml/chart"
-import "baliance.com/gooxml"
+import crt "github.com/sdowns/gooxml/schema/soo/dml/chart"
+import "github.com/sdowns/gooxml"
 
 // Pie3DChart is a Pie3D chart.
 type Pie3DChart struct {

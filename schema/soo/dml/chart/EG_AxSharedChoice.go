@@ -12,7 +12,7 @@ package chart
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type EG_AxSharedChoice struct {

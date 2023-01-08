@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type CT_DocPartBehaviors struct {

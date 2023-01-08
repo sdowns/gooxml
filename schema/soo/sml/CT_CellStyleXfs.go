@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type CT_CellStyleXfs struct {

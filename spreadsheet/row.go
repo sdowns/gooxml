@@ -10,10 +10,10 @@ package spreadsheet
 import (
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/sml"
-	"baliance.com/gooxml/spreadsheet/reference"
+	"github.com/sdowns/gooxml"
+	"github.com/sdowns/gooxml/measurement"
+	"github.com/sdowns/gooxml/schema/soo/sml"
+	"github.com/sdowns/gooxml/spreadsheet/reference"
 )
 
 // Row is a row within a spreadsheet.

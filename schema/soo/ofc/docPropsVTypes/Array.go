@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type Array struct {

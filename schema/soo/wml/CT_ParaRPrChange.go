@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type CT_ParaRPrChange struct {

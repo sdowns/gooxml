@@ -12,7 +12,7 @@ package spreadsheetDrawing
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/sdowns/gooxml"
 )
 
 type To struct {

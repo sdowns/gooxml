@@ -14,8 +14,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/zippkg"
+	"github.com/sdowns/gooxml"
+	"github.com/sdowns/gooxml/zippkg"
 )
 
 // Read reads a workbook from an io.Reader(.xlsx).

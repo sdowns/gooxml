@@ -13,9 +13,9 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/sdowns/gooxml"
+	"github.com/sdowns/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/sdowns/gooxml/schema/soo/wml"
 )
 
 type CT_Textbox struct {

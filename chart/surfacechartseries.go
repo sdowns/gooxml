@@ -8,11 +8,11 @@
 package chart
 
 import (
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/drawing"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/dml"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
+	"github.com/sdowns/gooxml/color"
+	"github.com/sdowns/gooxml/drawing"
+	"github.com/sdowns/gooxml/measurement"
+	"github.com/sdowns/gooxml/schema/soo/dml"
+	crt "github.com/sdowns/gooxml/schema/soo/dml/chart"
 )
 
 type SurfaceChartSeries struct {

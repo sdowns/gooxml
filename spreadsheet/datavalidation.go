@@ -8,8 +8,8 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/sml"
+	"github.com/sdowns/gooxml"
+	"github.com/sdowns/gooxml/schema/soo/sml"
 )
 
 // DataValidation controls cell validation
